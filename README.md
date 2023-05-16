@@ -11,7 +11,7 @@ This project uses two models, linear regression and gradient boosting regressor,
 
 ## Results
 
-The linear regression model was able to predict the profit of a company with an accuracy of 70%. The gradient boosting regressor model was able to predict the profit of a company with an accuracy of 97%.
+The linear regression model was able to predict the profit of a company with an accuracy of 82%. The gradient boosting regressor model was able to predict the profit of a company with an accuracy of 97%.
 
 ## Conclusion
 
